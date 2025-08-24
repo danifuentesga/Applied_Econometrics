@@ -1,6 +1,16 @@
+/******************************************************************************************
+* AUTOR DEL APPENDE DE BASES : Jaime Arrieta
+* AUTOR DE GRAFICAS:   Daniel Fuentes
+* FECHA:   23-ago-2025
+* TEMA:    Medición de Pobreza 2016-2024
+* NOTA:    Se trabajo con do files ya proporcionado por INEGI para el Calculo de Pobreza
+******************************************************************************************/
+
+* Antes de correr esto... nos persignamos, echamos la bendición y que Stata nos agarre confesados.
+* Suerte, compa.
+
 /********************************************************************************
-* MÓDULO DE POBREZA: GENERACIÓN DE INDICADORES Y GRÁFICAS EXPLORATORIAS
-* Fuente: ENIGH Panel de pobreza 2016–2024
+* DEFINICION DE CAMPO DE TRABAJO
 ********************************************************************************/
 
 clear all
@@ -394,6 +404,7 @@ restore
 /********************************************************************************
 * FIN DEL SCRIPT
 ********************************************************************************/
+
 
 
 
