@@ -6,7 +6,8 @@
 ******************************************************************************************/
 
 * Si Stata se tarda, no se desesperen: está echando chamba fina (o eso dice).
-*Y si sale un error raro... respira hondo, prende una veladora junto al busto de Alfonso Reyes que esta en la entrada del Colegio, revisa los labels, Y A DARLE QUE ESTO ES MOLE DE OLLA
+*Y si sale un error raro... respira hondo, prende una veladora junto al busto de Alfonso Reyes 
+*que esta en la entrada del Colegio, revisa los labels, Y A DARLE QUE ESTO ES MOLE DE OLLA
 
 /************************************************************************/
 /*              HOMOLOGACIÓN DE BASES CONCENTRADO ENIGH                */
@@ -1235,6 +1236,7 @@ twoway ///
 graph export "$graf\Grafica_HIJOS_MUJERES_OCUPADAS_ENIGH.png", replace
 
 restore
+
 
 
 
