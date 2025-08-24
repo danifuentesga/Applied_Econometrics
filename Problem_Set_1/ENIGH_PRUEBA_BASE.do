@@ -5,6 +5,10 @@
 * NOTA:    Se trabaja principamente con bases de "CONCENTRADO" Y "POBLACION" de cada año
 ******************************************************************************************/
 
+* Si Stata se tarda, no se desesperen: está echando chamba fina (o eso dice).
+*Y si sale un error raro... respira hondo, reza un padre nuestro
+* y revisa los labels, Y A DARLE QUE ESTO ES MOLE DE OLLA
+
 /************************************************************************/
 /*              HOMOLOGACIÓN DE BASES CONCENTRADO ENIGH                */
 /************************************************************************/
@@ -1232,6 +1236,7 @@ twoway ///
 graph export "$graf\Grafica_HIJOS_MUJERES_OCUPADAS_ENIGH.png", replace
 
 restore
+
 
 
 
