@@ -1,6 +1,6 @@
 /******************************************************************************************
-* AUTOR DEL APPENDE DE BASES : Jaime Arrieta
-* AUTOR DE GRAFICAS:   Daniel Fuentes
+* AUTOR DEL APPENDE DE BASES : Jaime Arrieta ( Github: Jaaror12 )
+* AUTOR DE GRAFICAS:   Daniel Fuentes ( Github: danifuentesga )
 * FECHA:   23-ago-2025
 * TEMA:    Medición de Pobreza 2016-2024
 * NOTA:    Se trabajo con do files ya proporcionado por INEGI para el Calculo de Pobreza
@@ -404,6 +404,7 @@ restore
 /********************************************************************************
 * FIN DEL SCRIPT
 ********************************************************************************/
+
 
 
 
