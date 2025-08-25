@@ -1,5 +1,5 @@
 /******************************************************************************************
-* AUTOR:   Daniel Fuentes
+* AUTOR:   Daniel Fuentes (Github: danifuentesga )
 * FECHA:   23-ago-2025
 * TEMA:    Homologación de bases de datos ENIGH (1992-2024)
 * NOTA:    Se trabaja principamente con bases de "CONCENTRADO" Y "POBLACION" de cada año
@@ -1236,6 +1236,7 @@ twoway ///
 graph export "$graf\Grafica_HIJOS_MUJERES_OCUPADAS_ENIGH.png", replace
 
 restore
+
 
 
 
