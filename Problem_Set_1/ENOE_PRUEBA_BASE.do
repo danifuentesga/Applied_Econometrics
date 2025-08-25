@@ -19,7 +19,7 @@
 * Define carpeta raíz donde están almacenadas las bases por año
 global enoe_path "D:\INVESTIGACION\DATA\ENOE"
 
-* (Tip para alumnos): Siempre revisen que las rutas usen "/" aunque estén en Windows
+* Tip: Siempre revisen que las rutas usen "/" aunque estén en Windows
 
 
 /******************************************************************************************
@@ -1630,4 +1630,5 @@ preserve
     graph export "$graf\Grafica_MUJERES_HIJOS_ENOE.png", replace
 
 restore
+
 
