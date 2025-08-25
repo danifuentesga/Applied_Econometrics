@@ -1,6 +1,6 @@
 /******************************************************************************************
-*  AUTORA DE APPEND: Camila Galaz
-*  AUTOR DE GRAFICAS Y CUADROS PROPIOS : Daniel Fuentes (Parte 7)
+*  AUTORA DE APPEND: Camila Galaz  ( Github : lcgalaz )
+*  AUTOR DE GRAFICAS Y CUADROS PROPIOS (+PASO 7) : Daniel Fuentes ( Gihub : danifuentesga )
 *  FECHA: Agosto 2025
 *  OBJETIVO: Integrar en un solo formato la ENOE-SDEM de 2005 a 2025, omitiendo 2020-2T.
 *  NOTA: Se asume estructura de carpetas por año y trimestre: AAAA/1T, 2T, 3T, 4T
@@ -1630,5 +1630,6 @@ preserve
     graph export "$graf\Grafica_MUJERES_HIJOS_ENOE.png", replace
 
 restore
+
 
 
