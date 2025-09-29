@@ -1,4 +1,5 @@
-/****************************************************************************************** AUTOR:   Daniel Fuentes (Github: danifuentesga )
+/****************************************************************************************** 
+* AUTOR:   Daniel Fuentes (Github: danifuentesga )
 * FECHA:   6-sep-2025
 * TEMA:    Homologación de bases de datos ENIGH (1992-2024)
 * NOTA:    Se trabaja principamente con bases de "CONCENTRADO" Y "POBLACION" de cada año
@@ -4822,6 +4823,7 @@ preserve
     graph export "$graf\PLREG_RESI_22.png", replace width(3000)
     graph export "$graf\PLREG_RESI_22.emf", replace
 restore
+
 
 
 
