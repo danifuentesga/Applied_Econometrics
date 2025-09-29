@@ -1,4 +1,5 @@
-/****************************************************************************************** AUTOR:   Daniel Fuentes (Github: danifuentesga )
+/****************************************************************************************** 
+* AUTOR:   Daniel Fuentes (Github: danifuentesga )
 * FECHA:   6-sep-2025
 * TEMA:    Homologación de bases de datos ENOE (2005-2025 2do trim)
 * NOTA:    
@@ -6691,6 +6692,7 @@ scatter d_ipl pct_d_masa_sal_ta , ///
 
 // Guardar gráfica
 graph export "$graf\POBREZA_6_7_3.png", replace
+
 
 
 
