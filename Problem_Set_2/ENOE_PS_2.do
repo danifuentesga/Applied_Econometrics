@@ -4,7 +4,9 @@
 * NOTA:    
 ******************************************************************************************/
 
-** “Life is like a box of do-files… nunca sabes qué error te va a tocar.” – Forrest Gump**
+
+** ....Este do-file está más pesado que el DeLorean, Doc..**
+
 
 **************************************************************************
                //#GLOBALS      
@@ -6689,6 +6691,7 @@ scatter d_ipl pct_d_masa_sal_ta , ///
 
 // Guardar gráfica
 graph export "$graf\POBREZA_6_7_3.png", replace
+
 
 
 
