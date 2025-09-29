@@ -1,4 +1,5 @@
-/****************************************************************************************** AUTOR:   Daniel Fuentes (Github: danifuentesga )
+/****************************************************************************************** 
+* AUTOR:   Daniel Fuentes (Github: danifuentesga )
 * FECHA:   31-ago-2025
 * TEMA:    Homologación de bases de datos IMSS (2000-2025)
 ******************************************************************************************/
@@ -664,6 +665,7 @@ graph bar gta, over(cve_entidad, ///
     yline(`mgta', lcolor(red) lpattern(dot) lwidth(thick))
 
 graph export "$graf\\IMSS_2_7.png", replace
+
 
 
 
