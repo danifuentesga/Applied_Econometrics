@@ -4,7 +4,7 @@
 * TEMA:    Homologación de bases de datos IMSS (2000-2025)
 ******************************************************************************************/
 
-* Esto es como diría Jenny a Forest: ...."Run regression, RUN..."
+* Esto es como diría Jenny a Forrest: ...."Run regression, RUN..."
 
 
 **************************************************************************
@@ -663,6 +663,7 @@ graph bar gta, over(cve_entidad, ///
     yline(`mgta', lcolor(red) lpattern(dot) lwidth(thick))
 
 graph export "$graf\\IMSS_2_7.png", replace
+
 
 
 
