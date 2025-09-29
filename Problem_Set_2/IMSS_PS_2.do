@@ -4,9 +4,7 @@
 * TEMA:    Homologación de bases de datos IMSS (2000-2025)
 ******************************************************************************************/
 
-* Si Stata se tarda, no se desesperen: está echando chamba fina (o eso dice).
-*Y si sale un error raro... respira hondo, prende una veladora junto al busto de Alfonso Reyes 
-*que esta en la entrada del Colegio, revisa los labels, Y A DARLE QUE ESTO ES MOLE DE OLLA
+* Esto es como diría Jenny a Forest: ...."Run regression, RUN..."
 
 
 **************************************************************************
@@ -665,6 +663,7 @@ graph bar gta, over(cve_entidad, ///
     yline(`mgta', lcolor(red) lpattern(dot) lwidth(thick))
 
 graph export "$graf\\IMSS_2_7.png", replace
+
 
 
 
